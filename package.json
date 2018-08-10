@@ -1,0 +1,23 @@
+{
+  "name": "font-lookup",
+  "version": "0.0.1",
+  "description": "Look for installed fonts and show their info.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "font",
+    "search",
+    "find",
+    "info"
+  ],
+  "author": "Erik Töyrä Silfverswärd",
+  "license": "ISC",
+  "dependencies": {
+    "font-manager": "^0.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  }
+}
