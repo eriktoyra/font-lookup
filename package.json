@@ -12,9 +12,11 @@
     "find",
     "info"
   ],
-  "author": "Erik Töyrä Silfverswärd",
+  "author": "Erik Töyrä Silfverswärd <erik.toyra@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "command-line-args": "^5.0.2",
+    "command-line-usage": "^5.0.5",
     "font-manager": "^0.3.0"
   },
   "devDependencies": {
